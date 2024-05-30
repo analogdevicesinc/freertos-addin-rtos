@@ -14,6 +14,8 @@ For instructions on using this repository and the FreeRTOS Add-In for CrossCore 
 The following processors are supported by this repository:
 * ADSP-SC5xx (SHARC+ and ARM cores)
 * ADSP-215xx (SHARC+ core)
+* ADSP-SC83x (SHARC-FX and ARM cores)
+* ADSP-2158x (SHARC-FX)
 * ADSP-BF57x (Blackfin core)
 
 Other Analog Devices processors may support FreeRTOS, but are not part of the CrossCore Embedded Studio Add-In product. Please refer to the documentation for these specific processors for more details.
